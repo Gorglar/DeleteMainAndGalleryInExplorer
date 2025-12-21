@@ -6,6 +6,6 @@ title Delete Main And Gallery In Explorer
 REG DELETE HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{f874310e-b6b7-47dc-bc84-b9e6b38f5903} /f
 REG DELETE HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{e88865ea-0e1c-4e20-9aa6-edcd0212c87c} /f
 
-echo Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ Ð²ÐºÐ»Ð°Ð´ÐºÐ¸ "Ð“Ð»Ð°Ð²Ð½Ð°Ñ" Ð¸ "Ð“Ð°Ð»ÐµÑ€ÐµÑ" Ð·Ð°Ð²ÐµÑ€ÑˆÐµÐ½Ñ‹.
+echo Óäàëåíèå âêëàäêè "Ãëàâíàÿ" è "Ãàëåðåÿ" çàâåðøåíû.
 timeout /t 5 >nul
 exit /b
