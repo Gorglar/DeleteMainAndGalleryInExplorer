@@ -1,6 +1,6 @@
 @echo off
 setlocal enabledelayedexpansion
-chcp 1251 >nul
+chcp 65001 >nul
 title Delete Main And Gallery In Explorer
 
 echo Удаляю записи реестра...
